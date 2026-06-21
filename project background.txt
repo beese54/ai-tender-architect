@@ -1,0 +1,44 @@
+project background
+
+This is a fictitious sample scenario used to demonstrate the generator. It does not describe
+any real organisation or engagement.
+
+The project is for the integration of an AI "Member Support Knowledge Copilot" into the staff
+tooling of Northwind Building Society (a fictional mutual). The copilot is intended to support
+contact-centre agents, branch staff and compliance reviewers by answering member-facing
+questions with accurate, up-to-date information and the supporting source passage. It is
+deployed alongside existing systems and aligned with the organisation's security and data
+sovereignty requirements.
+
+Problem statement
+
+Member support involves a large, frequently changing body of product terms and conditions,
+lending policies, complaint-handling procedures and regulatory guidance spread across
+disconnected systems and intranets. Agents need fast, contextual, evidence-based answers while
+they are on a call. The current requirement is to augment human decision-making without
+compromising accuracy, compliance, or the consistency of what members are told.
+
+intended users
+
+contact-centre agents, branch staff and compliance/administrative reviewers
+
+desired business outcome
+
+Improve the speed and consistency of member query resolution, reduce agent onboarding time,
+and ensure answers are grounded in the current approved source with an audit trail, while
+ensuring accuracy, compliance reporting and member trust are not compromised. The copilot is
+advisory and must fail safe, with no impact to core member-servicing systems if unavailable.
+
+User pain points
+
+Difficulty searching quickly across scattered sources, inconsistent answers between agents,
+uncertainty about which policy version is current, long onboarding for new agents, and no
+audit trail for what was told to a member. These are inferred from the stated functional
+requirements and outcomes.
+
+Use case classification
+
+A custom support copilot for member-facing operations, combining several AI use case types:
+RAG chatbot, document search and summarisation, decision support, citation-grounded knowledge
+grounding, classification/triage of queries, human-in-the-loop review and AI governance and
+evaluation capabilities.
