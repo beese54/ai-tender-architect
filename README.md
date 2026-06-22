@@ -15,15 +15,13 @@ agnostic** — describing *what capabilities are required* rather than *which pr
 
 ## Screenshots
 
-> _Screenshots coming soon — drop PNGs into `docs/screenshots/` to populate these._
-
 | Project intake | Architecture diagram |
 | --- | --- |
-| ![Project intake](docs/screenshots/01-intake.png) | ![Architecture diagram](docs/screenshots/02-diagram.png) |
+| ![Project intake](docs/screenshots/project_intake_details_screenshot.jpg) | ![Architecture diagram](docs/screenshots/data_flow_architecture_diagram.jpg) |
 
 | Tender specification | Export / copy |
 | --- | --- |
-| ![Tender specification](docs/screenshots/03-tender.png) | ![Export and copy](docs/screenshots/04-export.png) |
+| ![Tender specification](docs/screenshots/tender_specification_details.jpg) | ![Export and copy](docs/screenshots/export_tender_specs_details_and_architecture_diagram.jpg) |
 
 ## Quick start
 
